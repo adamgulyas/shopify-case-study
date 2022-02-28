@@ -12,9 +12,9 @@
 >How did the idea for the company (or project) come about?
 -->
 
-Shopify was founded by Daniel Weinand, Scott Lake, and Tobias Lütke and was incorporated on September 28, 2004.<sup>[1](https://www.crunchbase.com/organization/shopify)</sup> The company was initially incorporated under a numbered name, then was renamed in 2006 to *Jaded Pixel Technologies Inc.*, and finally to *Shopify* in 2011.<sup>[2](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpDtls.html?corpId=4261607)</sup>
+Shopify was founded by Daniel Weinand, Scott Lake, and Tobias Lütke<sup>[1](https://www.crunchbase.com/organization/shopify)</sup> and was incorporated on September 28, 2004.<sup>[2](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpDtls.html?corpId=4261607)</sup> The company was initially incorporated under a numbered name, then was renamed in 2006 to *Jaded Pixel Technologies Inc.*, and finally to *Shopify* in 2011.<sup>[2](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpDtls.html?corpId=4261607)</sup>
 
-It would be reasonable to assume that Shopify began with the intention of becoming a major player in the domain of e-commerce. After all, there were no widely available, easy-to-use platforms for merchants to open a digital storefront in 2004. On the contrary, Shopify's original business objective was to sell snowboarding equipment through an online store named *Snowdevil*. Already a programmer, co-founder Tobias Lütke developed the online store in two months, and two years later used the code behind it to launch Shopify — an e-commerce platform that the founders wished was available when they started Snowdevil.<sup>[3](https://fullfatcommerce.com/blog/a-history-of-shopify)</sup>
+It would be reasonable to assume that Shopify began with the intention of becoming a major player in the domain of e-commerce. After all, there were no widely available, easy-to-use platforms for merchants to open a digital storefront in 2004. On the contrary, Shopify's original business objective was to sell snowboarding equipment through an online store by the name of *Snowdevil*. Already a programmer, co-founder Tobias Lütke developed the store in two months, and two years later used the code behind it to launch Shopify — a site-building platform that the founders wished was available when they started with Snowdevil.<sup>[3](https://fullfatcommerce.com/blog/a-history-of-shopify)</sup>
 
 <!-- (Image) Snowdevil home page -->
 <img alt="A screenshot of the original Snowdevil home page" width="700" style="display:block;" src="https://ecommercenews.eu/wp-content/uploads/2020/04/snowdevil.jpg">
@@ -31,11 +31,11 @@ It would be reasonable to assume that Shopify began with the intention of becomi
 <!-- >How is the company funded? How much funding have they received? -->
 Since its inception, Shopify has raised a total of $122.3M through four rounds of funding, from Seed Round to Series C between 2007 and 2013.<sup>[5](https://www.crunchbase.com/organization/shopify/company_financials)</sup>
 
-The company generated $2.10B in revenue in the first half of 2021, an increase of 57% year over year. Revenue is earned through two main streams: Merchant Subscriptions and Merchant Solutions. Merchant Subscriptions revenue is comprised of platform subscription fees, Point-Of-Sale Pro fees, and app, theme, and domain sales. Merchant Solutions revenue is mostly made up of payment processing fees, but also includes referral fees, advertising revenue, and sales of POS hardware.
+The company generated $2.10B in revenue in the first half of 2021, an increase of 57% year over year. Revenue is earned through two main streams: Merchant Subscriptions and Merchant Solutions. Merchant Subscriptions revenue is comprised of platform subscription fees, Point-Of-Sale Pro fees, and app, theme, and domain sales. Merchant Solutions revenue is mostly made up of payment processing fees, but also includes referral fees, advertising revenue, and sales of POS hardware.<sup>[6](https://backlinko.com/shopify-stores)</sup>
 
 #### The Tables Have Turned
 
-We can see that 2016 is the year Merchant Solutions gained over half (51.56%) of the company's revenue share, signalling the first real shift towards identifying as a payments company. Merchant Solutions revenue has been steadily taking over since then, accounting for 68.99% revenue share in 2020.<sup>[6](https://backlinko.com/shopify-stores)</sup>
+In 2016 Merchant Solutions gained over half (51.56%) of the company's revenue share, signalling a major shift toward payment processing. Merchant Solutions revenue has been gaining ground since then, accounting for 68.99% revenue share in 2020.<sup>[6](https://backlinko.com/shopify-stores)</sup>
 
 <!-- (Table) Shopify 10yr revenue by service -->
 | Year | Merchant Subscriptions Revenue | Merchant Solutions Revenue |
@@ -61,12 +61,12 @@ We can see that 2016 is the year Merchant Solutions gained over half (51.56%) of
 Shopify says its mission is to:
 > "Make commerce better for everyone, so businesses can focus on what they do best: building and selling their products."<sup>[7](https://www.shopify.ca/blog/mission-statement)</sup>
 
-On the e-commerce side, the platform drastically lowers the amount of effort and investment required for merchants to create and manage a digital storefront for their business. In the realm of fintech, Shopify's merchant solutions aim to bridge all of the gaps in the e-commerce customer journey, namely payment processing and billing. The combination of Shopify's products creates a powerful, self-reliant ecosystem that provides them with a wide moat from the competition.
+On the e-commerce side, the platform drastically lowers the amount of effort and investment required for merchants to create and manage a digital storefront for their business. In the realm of fintech, Shopify's Merchant Solutions aims to bridge the gaps in the e-commerce customer journey, focusing on payment processing, lending, and logistics. The combination of Shopify's products creates a synergistic and self-reliant ecosystem, giving them a wide moat against the competition.
 
 ### The Customer
 
 <!-- >Who is the company's intended customer?  Is there any information about the market size of this set of customers? -->
-The customer is the store owner or retailer (also known as a *merchant* in payment processing syntax). Some Shopify stores do multi-million dollar annual revenue, while other stores may bring in only five-digits over the course of a year. There are roughly 1.75M merchants, and they funnelled over $79.5B in order value through the platform in sales in 2021.<sup>[6](https://backlinko.com/shopify-stores)</sup> This set of customers accounts for 32% of the e-commerce market share in the US.<sup>[8](https://www.tooltester.com/en/blog/shopify-market-share/)</sup>
+The target customer is the online store owner or retailer (technically referred to as a *merchant*). Some Shopify stores do multi-million dollar annual revenue, while other stores may bring in only five-digits over a year. There are roughly 1.75M merchants, and they funnelled over $79.5B in order value through the platform in sales in 2021.<sup>[6](https://backlinko.com/shopify-stores)</sup> This set of customers accounts for 32% of the e-commerce market share in the US.<sup>[8](https://www.tooltester.com/en/blog/shopify-market-share/)</sup>
 
 ### Value Proposition
 
@@ -93,13 +93,18 @@ E-commerce has become a smaller component in the grand scheme and is only a sing
 | Shopify Advanced |
 | Shopify Plus |
 
+| Platform |
+| --- |
+| POS Pro |
+| App Store |
+
   </td>
   <td>
 
 | Payments |
 | --- |
 | Shop Pay |
-| Shopify POS |
+| POS Hardware |
 | Shopify Markets |
 | Identity Verification |
 
@@ -112,9 +117,7 @@ E-commerce has become a smaller component in the grand scheme and is only a sing
 | --- |
 | Shopify Fulfillment Network
 
-| Platform |
-| --- |
-| App Store |
+
 
   </td>
   </tr>
@@ -128,7 +131,7 @@ E-commerce has become a smaller component in the grand scheme and is only a sing
 ### Technology Stack
 
 <!-- >Which technologies are they currently using, and how are they implementing them? -->
-Tobias Lütke built the Saas platform in Ruby on Rails (a.k.a. *Rails*), where it resides to this day. Currently, it is one of the largest and oldest Rails apps in the world. The core Shopify app is a monolith, but many other apps have been built to interact with the core. These peripheral apps tend to be domain-specific, aiding in things like shipping, identity verification, and the app store.<sup><a href="https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack">10</a></sup>
+The Saas platform was built in Ruby on Rails (a.k.a. *Rails*) and uses the original codebase to this day. Currently, it is one of the largest and oldest Rails apps in the world. The core Shopify app is a monolith with many surrounding apps that interact with it. These peripheral apps are usually domain-specific, aiding in things like shipping, identity verification, and the app store.<sup><a href="https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack">10</a></sup>
 
 <!-- (Image) Ruby on Rails stack -->
 <img alt="A basic diagram of Shopify's core tech stack" width="500" style="" src="https://cdn.shopify.com/s/files/1/0779/4361/files/shopify-rails-stack_1024x1024.png?format=webp&v=1533667458">
@@ -138,7 +141,7 @@ Tobias Lütke built the Saas platform in Ruby on Rails (a.k.a. *Rails*), where i
 </p>
 <!-- (Image) end -->
 
-Although the above image is the core stack, Shopify would not be what it is without the help of additional dependencies. Here are some key tools, libraries and services in each layer of the stack:
+Although MySQL, Memcached, and Redis make up the core stack, many additional dependencies are required to build such a complex and high-performing system. Here are some key tools, libraries and services that serve as building blocks for Shopify's products:
 
 <!-- (Table) Shopify's technology stack -->
 | Component | Tools, Libraries and Services |
@@ -153,45 +156,45 @@ Although the above image is the core stack, Shopify would not be what it is with
 </p>
 <!-- (Table) end -->
 
-By layering these tools, Shopify can attain high system speeds and efficiency at scale.<sup><a href="https://notesmatic.com/shopifys-critical-strengths-and-competitive-edge-a-swot-analysis-for-2021/">12</a></sup>
+By carefully layering these components, Shopify can attain high system speeds and efficiency at scale.<sup><a href="https://notesmatic.com/shopifys-critical-strengths-and-competitive-edge-a-swot-analysis-for-2021/">12</a></sup>
 
 ## The Payment Processing Landscape
 
 <!-- >What domain of the financial industry is the company in? -->
-Shopify is at the intersection of e-commerce and payment processing and is increasingly leaning towards the latter. Remember, the company started in the site-builder space and utilized 3rd party payment processors, leaving it up to web developers to implement other payment solutions. Fast forward to 2022 and now 3/4 of the company's revenue comes from payment processing and *not* e-commerce subscriptions.<sup><a href="https://backlinko.com/shopify-stores">6</a></sup> Furthermore, Shop Pay has become Shopify's star product, leading the way to a solid footing in the fintech payments industry. Shop Pay is a seminal product for Shopify as it's the first to break out into a standalone service that can be used outside of the Shopify ecosystem.<sup><a href="https://medium.com/ipg-media-lab/the-exciting-intersection-of-fintech-and-ecommerce-66bd37d97c81">13</a></sup>
+Shopify sits at the intersection of e-commerce and payments and is increasingly leaning towards the latter. Remember, the company started in the site-builder space and utilized 3rd party payment processors, leaving it up to web developers to implement other payment solutions. Fast forward to 2022 and now 3/4 of the company's revenue comes from payment processing and *not* e-commerce subscriptions.<sup><a href="https://backlinko.com/shopify-stores">6</a></sup> Furthermore, Shop Pay has become Shopify's star product, leading the way to a solid footing in the fintech payments industry. Shop Pay is a seminal product for Shopify as it's the first to break out into a standalone service that can be used outside of the Shopify ecosystem.<sup><a href="https://medium.com/ipg-media-lab/the-exciting-intersection-of-fintech-and-ecommerce-66bd37d97c81">13</a></sup>
 
 ### Trends and Innovation
 
 <!-- >What have been the major trends and innovations of this domain over the last 5-10 years? -->
-Several aspects of payment processing are required for worry-free payment processing for all. Users don't have to worry much about whether their payment is going to be stolen or intercepted, nor do they have to worry about their information being used against their wishes. Best of all, payments are fast and easy to execute. The attributes of security, privacy, user experience and speed have been optimized over the years to give peace of mind to users. Much of this is possible due to the advent of cloud computing which allows wide arrays of services to communicate with each other, among other key capabilities.<sup><a href="https://www.europeanbusinessreview.com/how-fintech-innovations-are-making-payments-more-efficient/">14</a></sup>
+Several innovations in payment processing have brought about worry-free transactions for all. Users don't have to worry about whether their payment is going to be stolen or intercepted, nor do they have to worry about their information being used against their wishes. The attributes of security, privacy, user experience and speed have been optimized over the years to give peace of mind to users. Much of this is possible due to the advent of cloud computing and improved encryption protocols.<sup><a href="https://www.europeanbusinessreview.com/how-fintech-innovations-are-making-payments-more-efficient/">14</a></sup>
 
 #### Buy now, pay later
 
-Buy now, pay later (BNPL) allows customers to purchase items now and pay them off in installments. The shiny feature of BNPL is that it can be used for any size of transaction, enabling people to better manage their cash flows.
+Buy now, pay later (BNPL) allows customers to purchase items now and pay them off in installments. The allure of BNPL is that it can be used for any size of transaction, enabling people to better manage their cash flows.
 
-Rising merchant adoption, omnichannel applications, flexibility, and loyal youth consumers have led to a recent surge in transactions. This is good news Shopify since their e-commerce platform fosters these qualities beetween customers and merchants.
+Rising merchant adoption, omnichannel applications, flexibility, and loyal youth consumers have led to a recent surge in transactions. This is good news for Shopify since their e-commerce platform fosters these qualities between customers and merchants.
 
-BNPL can translate into 20-30% higher conversion rates for merchants and 30-50% higher average ticket sales, and is set to be one the fastest growing payments trends in 2022.<sup><a href="https://www.europeanbusinessreview.com/how-fintech-innovations-are-making-payments-more-efficient/">20</a></sup>
+BNPL can translate into 20-30% higher conversion rates for merchants and 30-50% higher average ticket sales, and is set to be one the fastest growing payments trends in 2022.<sup><a href="https://www.globalpayments.com/en-ca/commerce-payment-trends#trend2">20</a></sup>
 
 #### Commerce enablement
 
-Commerce enablement refers to a holistic ecosystem containing loyalty programs, online appointments, online check-in, automated communications, marketing, and more. This ecosystem creates connectivity with the customer which is becoming increasingly important for growth and retention.<sup><a href="https://www.europeanbusinessreview.com/how-fintech-innovations-are-making-payments-more-efficient/">20</a></sup>
+Commerce enablement refers to a holistic ecosystem containing loyalty programs, online appointments, online check-in, automated communications, marketing, and more. This ecosystem creates connectivity with the customer which is becoming increasingly important for growth and retention. Companies that focus on commerce enablement are more likely to retain customers and weather industry storms better than their competitors.<sup><a href="https://www.globalpayments.com/en-ca/commerce-payment-trends#trend3">21</a></sup>
 
 #### B2B payments
 
-Paper checks still account for more than 50% of the overall transaction value for B2B payments. Other manual methods like spreadsheet entries for ACH of EFT, or even someone providing payment details over the phone are still common.
+Paper checks still account for more than 50% of the overall transaction value for B2B payments. Other manual methods like spreadsheet entries for ACH of EFT, or even someone providing payment details over the phone are still common exercises.
 
-The pandemic has ushered in a sudden demand for digital B2B payment management and processing, with accounting departments needing to manage finances outside of a secure office.
+The pandemic has ushered in a sudden demand for digital B2B payment management and processing due to accounting departments needing to manage finances outside of a secure office.
 
-Digital B2B payments bring benefits like increasing transparency and control needed to optimize cash flow which will give businesses the opportunity to optimize and organize themselves better.
+Digital B2B payments bring benefits like increasing transparency and control needed to optimize cash flow control and will allow businesses to organize themselves better.
 
-In 2022, B2B payments will undergo a digital transformation to meet the expectations of vendors and suppliers and it is estimated that global B2B non-cash transactions will increase to nearly 200 billion transactions by 2025, from 121.5 billion in 2020.<sup><a href="https://www.europeanbusinessreview.com/how-fintech-innovations-are-making-payments-more-efficient/">20</a></sup>
+In 2022, B2B payments will undergo a digital transformation to meet the expectations of vendors and suppliers and it is estimated that global B2B non-cash transactions will increase to nearly 200 billion transactions by 2025, from 121.5 billion in 2020.<sup><a href="https://www.globalpayments.com/en-ca/commerce-payment-trends#trend4">22</a></sup>
 
 #### Data privacy
 
-A heightened focus on protecting customer data is imperative in the present time, but also for the future ahead. It's a very complex task because of global and local regulations requiring strict adherence. Nonetheless, data privacy is a core necessity for users worldwide.
+A heightened focus on protecting customer data is imperative in the present time, but also for the future ahead. It's a complex task because of global and local regulations requiring strict adherence. Nonetheless, data privacy is a core necessity for users worldwide.
 
-A trend in data privacy is the aim of devaluing PII, so that if it were compromised, users would remain protected.<sup><a href="https://www.europeanbusinessreview.com/how-fintech-innovations-are-making-payments-more-efficient/">20</a></sup>
+An ever-growing trend in data privacy is the aim of devaluing PII (Personal Identifiable Information) so that if it were compromised or stolen, users would remain protected.<sup><a href="https://www.globalpayments.com/en-ca/commerce-payment-trends#trend5">23</a></sup>
 
 ### Competition
 
@@ -213,12 +216,12 @@ Each of these companies has its unique value proposition. Some promote advanced 
 ## Results
 
 <!-- >What has been the business impact of this company so far? -->
-Most people are aware of Shopify's business impact, even if they don't know how to explain it; it's all over social media. Resourceful entrepreneurs have been freed from the monotony of their day jobs and become full-time business owners, makers and distributors. This is because they no longer need to rent a street-facing storefront, renovate an indoor space, and all the other difficulties of bootstrapping a brick and mortar business. Now, people can select a Shopify theme, upload images of their products and start selling with barely any upfront investment. Similarly, consumers benefit from fewer costs like transportation time and money, and can still reach their favourite brands.<sup><a href="https://www.shopify.ca/blog/the-shopify-effect">17</a></sup>
+Most people are aware of Shopify's business impact, even if they don't know how to explain it. Small business owners have been "freed" from the monotony of their day jobs and become full-time makers and distributors of their products. This is because they no longer need to rent a street-facing storefront, renovate an indoor space, and assume the many risks of bootstrapping a brick and mortar business. Now, people can select a Shopify theme, upload images of their products and start selling with minimal upfront investment. Similarly, consumers benefit from fewer costs like transportation time and money, and can still reach their favourite brands.<sup><a href="https://www.shopify.ca/blog/the-shopify-effect">17</a></sup>
 
 ### Measures of success
 
 <!-- >What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? -->
-Recording key metrics is paramount to building a competitive payment processing product. Here are some KPIs that are tracked in the world of payment processing:<sup><a href="https://ccbill.com/blog/kpi-for-payment-processing">18</a></sup>
+Recording key metrics is paramount to building a competitive payment processing product. Here are some KPIs that are tracked in the world of payments:<sup><a href="https://ccbill.com/blog/kpi-for-payment-processing">18</a></sup>
 
 - Payment conversion rate
 - Conversion rate by bank
@@ -247,43 +250,15 @@ Shop pay beats the competitor by 1.72x for payment conversion rate, indicating t
 
 Data privacy is paramount to all people, no matter where you're from. So why not aim to regulate it as such? Why not create data privacy laws that apply to everyone online, rather than everyone in their specific state or country?
 
-The complexity of data privacy is causing issues for companies. Currently the problems stem mostly from GDPR, CCPA, and LGPD compliance.<sup><a href="https://www.cohnreznick.com/insights/understanding-costs-and-complexity-of-data-privacy-compliance">21</a></sup> And the more attempts there are to regulate data privacy en masse, the more regulations will have to be accounted for.
+The complexity of data privacy is causing issues for companies. Currently the problems stem mostly from GDPR, CCPA, and LGPD compliance.<sup><a href="https://www.cohnreznick.com/insights/understanding-costs-and-complexity-of-data-privacy-compliance">24</a></sup> And the more attempts there are to regulate data privacy geographically, the more regulations will have to be accounted for.
 
-Primary technologies used for data privacy involve data encryption in transit and at rest, authentication and authorization, hardware-based security (or physical-based security), and data backup.<sup><a href="https://www.intel.com/content/www/us/en/analytics/data-security.html">22</a></sup> These technologes have been built up over the years and remain as the core tools required for sound data privacy.
+Primary technologies used for data privacy involve data encryption in transit and at rest, authentication and authorization, hardware-based security (or physical-based security), and data backup.<sup><a href="https://www.intel.com/content/www/us/en/analytics/data-security.html">25</a></sup> These technologies have been built up over the years and remain as the core tools required for sound data privacy.
 
-By spearheading such a movement, Shopify would colidify itself as a major global player in the payment processing world. Shopify could make it easier for their customers to sell to more people globally, cumulatively inreasing Shopify's bus painess andyment processing volume.
+By spearheading such a movement, Shopify would solidify itself as a major player in global payments. On the revenue side, by making it easier for their merchants to sell to more customers, they would be increasing Shop Pay's payment processing volumes.
 
 ## Conclusion
 
-Though Shopify began in user-friendly website construction, it has grown into so much more. Shopify's innovative business components are outlasting its old ones, indicating that Shopify knows how to redefine themselves as time moves on, and that they are here for the long term.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Though Shopify began in user-friendly website construction, it has grown into so much more. Shopify's innovative business components are outlasting its old ones, indicating that Shopify knows how to redefine itself as time moves on and that it is here for the long term.
 
 <!-- >If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) -->
 <!-- It would be interesting to see how a crowdfunding component would perform within Shopify. It would be useful if a brand had a following and the owner of that brand wanted to make something they haven't made before, or need enough guaranteed interest in their new product to build it out with confidence that it will sell. The feature would also reduce risk on the merchant's end in that they wouldn't need to borrow money for certain projects. -->
@@ -315,6 +290,9 @@ Though Shopify began in user-friendly website construction, it has grown into so
 17. [The Shopify Effect: How Entrepreneurs Are Changing the World](https://www.shopify.ca/blog/the-shopify-effect)
 18. [11 KPIs for Payment Processing You Need to Measure](https://ccbill.com/blog/kpi-for-payment-processing)
 19. [Shop Pay Is the Fastest and Best-Converting Checkout Experience on the Internet](https://www.shopify.ca/blog/shop-pay-checkout)
-20. [2022 Commerce and Payment Trends Report](https://www.globalpayments.com/en-ca/commerce-payment-trends)
-21. [Understanding the Costs and Complexity of Data-Privacy Compliance](https://www.cohnreznick.com/insights/understanding-costs-and-complexity-of-data-privacy-compliance)
-22. [Data Security: What It Is, Why It’s Important, and How to Get Started](https://www.intel.com/content/www/us/en/analytics/data-security.html)
+20. [2022 Commerce and Payment Trends Report - Buy Now, Pay Later](https://www.globalpayments.com/en-ca/commerce-payment-trends#trend2)
+21. [2022 Commerce and Payment Trends Report - Commerce Enablement](https://www.globalpayments.com/en-ca/commerce-payment-trends#trend3)
+22. [2022 Commerce and Payment Trends Report - B2B Payments](https://www.globalpayments.com/en-ca/commerce-payment-trends#trend4)
+23. [2022 Commerce and Payment Trends Report - Data Privacy](https://www.globalpayments.com/en-ca/commerce-payment-trends#trend5)
+24. [Understanding the Costs and Complexity of Data-Privacy Compliance](https://www.cohnreznick.com/insights/understanding-costs-and-complexity-of-data-privacy-compliance)
+25. [Data Security: What It Is, Why It’s Important, and How to Get Started](https://www.intel.com/content/www/us/en/analytics/data-security.html)
