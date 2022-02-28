@@ -200,7 +200,7 @@ An ever-growing trend in data privacy is the aim of devaluing PII (Personal Iden
 
 <!-- >What are the other major companies in this domain? -->
 
-The leading competitors in the payments domain are:<sup><a href="https://builtin.com/fintech/fintech-payments-companies-examples">15</a></sup><sup><a href="https://www.g2.com/products/stripe-stripe-payments/competitors/alternatives">16</a></sup>
+The leading competitors in the payments domain are:<sup><a href="https://builtin.com/fintech/fintech-payments-companies-examples">15</a></sup> <sup><a href="https://www.g2.com/products/stripe-stripe-payments/competitors/alternatives">16</a></sup>
 
 - Stripe
 - Square
